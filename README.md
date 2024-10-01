@@ -24,12 +24,14 @@ To find the sum of a subarray from index `l` to `r` (inclusive):
 \]
 This operation takes constant time, \(O(1)\), after preprocessing.
 
-Complexity
-  -Preprocessing Time: 𝑂(𝑛)
-  -Query Time: 𝑂(1)
-  -Space Complexity: 𝑂(𝑛)
+#### Complexity
 
-Applications
-  -Fast range sum queries
-  -Cumulative frequency calculations
-  -Optimizing dynamic programming problems
+- **Preprocessing Time**: \(O(n)\)
+- **Query Time**: \(O(1)\)
+- **Space Complexity**: \(O(n)\)
+
+#### Applications
+
+- **Fast range sum queries**
+- **Cumulative frequency calculations**
+- **Optimizing dynamic programming problems**
