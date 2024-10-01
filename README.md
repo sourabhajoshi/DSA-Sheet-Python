@@ -24,12 +24,6 @@ To find the sum of a subarray from index `l` to `r` (inclusive):
 \]
 This operation takes constant time, \(O(1)\), after preprocessing.
 
-#### Example
-
-Consider the array:
-```plaintext
-arr = [2, 4, 1, 3, 5]
-
 Complexity
   -Preprocessing Time: 𝑂(𝑛)
   -Query Time: 𝑂(1)
