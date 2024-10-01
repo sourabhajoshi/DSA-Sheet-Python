@@ -26,12 +26,12 @@ This operation takes constant time, \(O(1)\), after preprocessing.
 
 #### Complexity
 
-- **Preprocessing Time**: \(O(n)\)
-- **Query Time**: \(O(1)\)
-- **Space Complexity**: \(O(n)\)
+- Preprocessing Time: \(O(n)\)
+- Query Time: \(O(1)\)
+- Space Complexity: \(O(n)\)
 
 #### Applications
 
-- **Fast range sum queries**
-- **Cumulative frequency calculations**
-- **Optimizing dynamic programming problems**
+- Fast range sum queries
+- Cumulative frequency calculations
+- Optimizing dynamic programming problems
