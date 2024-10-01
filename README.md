@@ -29,3 +29,13 @@ This operation takes constant time, \(O(1)\), after preprocessing.
 Consider the array:
 ```plaintext
 arr = [2, 4, 1, 3, 5]
+
+Complexity
+  -Preprocessing Time: 𝑂(𝑛)
+  -Query Time: 𝑂(1)
+  -Space Complexity: 𝑂(𝑛)
+
+Applications
+  -Fast range sum queries
+  -Cumulative frequency calculations
+  -Optimizing dynamic programming problems
