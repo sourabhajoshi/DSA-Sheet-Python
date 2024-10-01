@@ -1,6 +1,6 @@
 # Data Structure Algorithms
 
-### Prefix Sum Algorithm
+### 01 Prefix Sum Algorithm
 
 The prefix sum algorithm is a powerful technique for efficiently computing cumulative sums of elements in an array. It enables quick calculations of the sum of any subarray after an initial preprocessing step.
 
