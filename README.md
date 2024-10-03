@@ -35,3 +35,17 @@ This operation takes constant time, \(O(1)\), after preprocessing.
 - Fast range sum queries
 - Cumulative frequency calculations
 - Optimizing dynamic programming problems
+
+### 02 Carry Forward Technique
+
+The "carry forward" technique is commonly used in algorithm design and data structures to efficiently manage and update data over time. This approach is especially useful in scenarios where you need to maintain running totals or aggregates while minimizing the need for full recalculations. Below, we’ll explore the technique, its implementation, complexity, and applications.
+
+#### Complexity 
+ - Initialization Time: 𝑂(𝑛)
+ - Update Time: 𝑂(𝑛)
+ - Query Time: 𝑂(1)
+   
+#### Applications
+ - Dynamic Range Queries: Useful for applications that require frequent updates and range sum queries.
+ - Data Analysis: Keeping track of cumulative values while processing streams of data.
+ - Game Development: Efficiently updating and querying scores or resources.
