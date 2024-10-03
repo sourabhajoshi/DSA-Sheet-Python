@@ -49,3 +49,12 @@ The "carry forward" technique is commonly used in algorithm design and data stru
  - Dynamic Range Queries: Useful for applications that require frequent updates and range sum queries.
  - Data Analysis: Keeping track of cumulative values while processing streams of data.
  - Game Development: Efficiently updating and querying scores or resources.
+
+### 03 Subarray
+
+A subarray is a portion of an array that consists of consecutive elements from the original array.
+
+#### Characteristics of a Subarray:
+ - Contiguity: The elements in a subarray are contiguous, meaning they are consecutive and in order in the original array.
+ - Length: The length of a subarray can be any positive integer, from 1 to the length of the original array.
+ - Element Selection: The elements in a subarray are selected from the original array.
