@@ -53,6 +53,7 @@ The "carry forward" technique is commonly used in algorithm design and data stru
 ### 03 Subarray
 
 A subarray is a portion of an array that consists of consecutive elements from the original array.
+In general, for an array of size n, there are n*(n+1)/2 non-empty subarrays.
 
 #### Characteristics of a Subarray:
  - Contiguity: The elements in a subarray are contiguous, meaning they are consecutive and in order in the original array.
