@@ -59,3 +59,5 @@ In general, for an array of size n, there are n*(n+1)/2 non-empty subarrays.
  - Contiguity: The elements in a subarray are contiguous, meaning they are consecutive and in order in the original array.
  - Length: The length of a subarray can be any positive integer, from 1 to the length of the original array.
  - Element Selection: The elements in a subarray are selected from the original array.
+
+### 2D Array
