@@ -61,3 +61,18 @@ In general, for an array of size n, there are n*(n+1)/2 non-empty subarrays.
  - Element Selection: The elements in a subarray are selected from the original array.
 
 ### 2D Array
+
+
+
+
+----------
+References : 
+https://www.youtube.com/watch?v=Qmt0QwzEmh0&list=PLDV1Zeh2NRsB6SWUrDFW2RmDotAfPbeHu (Easy to understand concepts)
+
+https://www.youtube.com/watch?v=0IAPZzGSbME&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O (In depth college level videos, no need to watch everything)
+AlgoMaster.io - Master DSA Patterns (He has identified set of questions based on patterns (you can also click on the patterns, it might lead to relevant study material; or you can watch the videos from above playlists and solve questions mentioned). Select the preparation time interval, and go through the sections)
+
+Top Interview 150 - Study Plan - LeetCode (Here also, like above, set of 150 questions are divided pattern wise)
+https://github.com/stacygohyunsi/algorithms-primer (If you're looking for comprehensive written theory)
+
+Grokking Algorithms : Bhargava, Aditya Y., Zingaro, Daniel: Amazon.in: Books (You can find this book online too- one of the most easy book to read, illustrated examples)
