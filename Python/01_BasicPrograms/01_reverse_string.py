@@ -1,4 +1,4 @@
-# Write a program that takes a string input from the user and prints the reversed string.
+# Write a program that takes a string input from the user and prints the reversed string
 
 def reverse_string(text):
   reverse_text = ""
@@ -6,6 +6,6 @@ def reverse_string(text):
     reverse_text = char + reverse_text
   return reverse_text
     
-user_input = input('Enter a string : ')
+user_input = input('Enter a string value : ')
 print(f"Revered string is : {reverse_string(user_input)}")
 
