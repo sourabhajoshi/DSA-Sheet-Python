@@ -1,4 +1,4 @@
-# Data Structure Algorithms 
+# Data Structure Algorithms :
 
 ### 01 Prefix Sum Algorithm
 
