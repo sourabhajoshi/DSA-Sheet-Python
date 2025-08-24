@@ -63,8 +63,6 @@ In general, for an array of size n, there are n*(n+1)/2 non-empty subarrays.
 ### 2D Array
 
 
-
-
 ----------
 References : 
 https://www.youtube.com/watch?v=Qmt0QwzEmh0&list=PLDV1Zeh2NRsB6SWUrDFW2RmDotAfPbeHu (Easy to understand concepts)
