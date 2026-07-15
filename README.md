@@ -12,7 +12,7 @@ Given an array `arr` of size `n`, create a new array `prefix_sum` of size `n + 1
 - For each index `i` from 1 to `n`, compute:
   \[
   \text{prefix\_sum}[i] = \text{prefix\_sum}[i - 1] + \text{arr}[i - 1]
-  \]
+  \]  
   
 This means `prefix_sum[i]` contains the sum of the elements from the start of the array up to, but not including, index `i`.
 
@@ -24,9 +24,9 @@ To find the sum of a subarray from index `l` to `r` (inclusive):
 \]
 This operation takes constant time, \(O(1)\), after preprocessing.
 
-#### Complexity
+#### Complexity  
 
-- Preprocessing Time: \(O(n)\)
+- Preprocessing Time: \(O(n)\) 
 - Query Time: \(O(1)\)
 - Space Complexity: \(O(n)\)
 
